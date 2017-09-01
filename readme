@@ -1,0 +1,11 @@
+Aplicação de Desafio
+==============================
+
+
+- Aplicação construída utilizando SpringBoot, pode ser inicializada pela classe DesafioFastApplication (main)
+
+- Ao iniciar a aplicação pode ser acessada no navegar pelo link: "http://localhost:8080/movimentacao"
+
+- Escolha o arquivo de movimentação e clique em enviar
+
+- o resultado será exibido no navegador.
